@@ -8,4 +8,4 @@
 
 #### Meow, thanks for visiting! ♥️
 
-![picture of criminal the cat](https://sean-codes.github.io/assets/images/a_picture_of_criminal.jpg)
+![picture of criminal the cat](https://sean-codes.github.io/images/a_picture_of_criminal.jpg)
